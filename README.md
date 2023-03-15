@@ -10,4 +10,6 @@
 # 내가 수강한 과목
 
 # 수상 현황
-
+2015년 KBO 골든글러브 외야수상 <br>
+2015년 WBSC 프리미어 12 MVP <br>
+[발표 ppt].(/presentation.pptx)
