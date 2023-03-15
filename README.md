@@ -14,4 +14,4 @@
 2015년 WBSC 프리미어 12 MVP <br>
 [발표 ppt](/presentation.pptx)
 발표 동영상<br>
-<iframe width="500" height="500" src="https://www.youtube.com/embed/Km71Rr9K-Bw" title="NewJeans (뉴진스) &#39;Ditto&#39; Performance Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="700" height="500" src="https://www.youtube.com/embed/Km71Rr9K-Bw" title="NewJeans (뉴진스) &#39;Ditto&#39; Performance Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
